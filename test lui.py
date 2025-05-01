@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk
 win = Tk()
 win.title('My project')
-win.geometry('500x300')
+win.geometry('500x500')
 win.resizable(False,False) # заборона зміни розміру вікна
 #  елементи керування
 # написи
